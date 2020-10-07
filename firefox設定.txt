@@ -1,0 +1,113 @@
+
+
+#############################################################################################
+# アドオン（ Firefox sync で同期される）
+
+#タブのロック機能
+https://addons.mozilla.org/ja/firefox/addon/tabloc/
+#Always Right　新規タブがアクティブタブのすぐ右側に開きます
+https://addons.mozilla.org/ja/firefox/addon/always-right/
+#tabを閉じた際、左のタブがフォーカスされるようになります
+https://addons.mozilla.org/ja/firefox/addon/focus-on-left-tab-aft-closing/?src=api
+#現在のタブを閉じた後に、どのタブにフォーカスするかを設定できる。（上の「Focus On Left Tab After Closing」を使ってるので不要）
+#https://addons.mozilla.org/ja/firefox/addon/select-after-closing-current/?src=api
+#いわゆる「最近閉じたタブ」
+https://addons.mozilla.org/ja/firefox/addon/undoclosetabbutton/
+#右側のタブをまとめて閉じるアドオン
+https://addons.mozilla.org/ja/firefox/addon/close-tabs-right/
+#左側のタブをまとめて閉じるアドオン: Close Tabs to the Left、デフォルトでは右側のタブを閉じるメニューしかないので左側のタブも閉じるメニューを追加するアドオン
+https://addons.mozilla.org/ja/firefox/addon/close-tabs-left/
+
+
+#############################################################################################
+
+about:config　で設定するのは、Firefox sync でも同期されない。
+
+about:config
+browser.tabs.loadBookmarksInTabs			true
+browser.search.openintab			true
+browser.bookmarks.openInTabClosesMenu			false
+browser.tabs.insertRelatedAfterCurrent			true
+#最後のタブを消しても空白のタブが残る。https://rcmdnk.com/blog/2014/11/11/computer-firefox/	https://rcmdnk.com/blog/2014/11/16/computer-firefox/
+browser.tabs.closeWindowWithLastTab	false
+#http://objprg.blog122.fc2.com/blog-entry-206.html
+browser.tabs.loadDivertedInBackground	true
+#ポップアップを新しいウィンドウではなく新しいタブに開く http://bee-dash.com/blog-entry-15009.html
+browser.link.open_newwindow	3
+browser.link.open_newwindow.restriction	0
+
+#フルスクリーン時のツールバーを常に表示する
+browser.fullscreen.autohide	false
+#bookmarkの履歴数
+browser.bookmarks.max_backups	0
+
+# # http://web-d.navigater.info/cat2/firefox.html
+# network.http.pipelining					true
+# network.http.proxy.pipelining			true
+# network.http.pipelining.maxrequests		8
+# browser.cache.memory.enable				true
+# 　→右クリック→「新規作成」→「整数値」
+# browser.cache.memory.capacity
+# ※搭載メモリが1GBの場合：16384
+# ※搭載メモリが2GBの場合：32768
+# ※搭載メモリが3GBの場合：49152
+# ※搭載メモリが4GBの場合：65536
+
+#############################################################################################
+
+https://ameblo.jp/foreheadlarge-s/entry-11974850796.html
+
+browser.tabs.showSingleWindowModePrefs
+を真偽値で作成し、真にする
+
+警告を閉じます。
+browser.link.open_newwindow.restrictionを0に変更します（browser.link.open_newwindowがデフォルトの3に設定されていることを確認します）
+
+browser.search.openintab→true
+サーチバーで検索した場合、検索結果を新しいタブで表示する。
+
+browser.backspace_action→2
+初期値ではbackspaceが"戻る"に割り振られているのを無効化し、押しても前のページに戻らないようにする。
+
+security.dialog_enable_delay→0
+アドオンのインストールの待ち時間を0にする。
+
+browser.tabs.closeWindowWithLastTab→false
+ウィンドウの最後のタブを閉じても、ウィンドウを閉じないようにする。
+
+browser.pagethumbnails.capturing_disabled→true
+訪問したサイトを静止画キャプチャーで保存し、サムネイル画像として表示する機能を停止させる。
+
+browser.tabs.animate→false
+タブアニメーションを無効化する。負荷が多少減るかも。
+
+シングルウィンドウモード関係のもの
+browser.link.open_newwindow→3
+新規ウィンドウで開くようにされたリンクを新しいタブで開く。
+
+browser.link.open_newwindow.restriction→0
+JavaScriptによって新規ウィンドウで開くリンクを、browser.link.open_newwindowと同じよう(新しいタブ)に開く。
+
+この二つの項目をこのように設定すると、新規ウィンドウで開くリンクを常に新しいタブで開くようになるので、シングルウィンドウでブラウジング出来るようになります。
+
+マウススクロール関係のもの
+mousewheel.acceleration.start→3
+マウスホイールの加速機能を有効にする。数値は加速開始への閾値的なもの。
+
+mousewheel.acceleration.factor→5
+マウスホイールの加速状態となった時の、スクロール量。多くすると多くスクロールする。
+
+一度のマウスホイールでも、ホイール速度によってスクロール量が大きく変わるのが便利。とても重宝しています
+
+#############################################################################################
+右クリック禁止とかコピペ禁止を回避
+http://blog.gutyan.jp/entry/2013/08/10/Firefox23_JavaScript
+
+about:config
+
+以下の二つをfalseにする。
+dom.event.clipboardevents.enabled
+
+# これをfalse にすると、googleマップで右クリックした際、firefoxの右クリックとgoogleマップの右クリックの両方が出てしまう
+dom.event.contextmenu.enabled
+#############################################################################################
