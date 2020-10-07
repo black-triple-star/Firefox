@@ -1,9 +1,6 @@
-!firefoxİ’è.txt
-# ! ‚ÅœŠO‚·‚éƒtƒ@ƒCƒ‹ˆÈŠO‘S‚Ä‚ªgithub‚ÌŠÇ—‘ÎÛŠO
-*.css
-*.cmd
-*.jpg
-*.mht
+!firefoxè¨­å®š.txt
+*
+
 
 ~$*
 *.lnk
@@ -20,7 +17,4 @@ BackUp
 *.un~
 *.swp
 
-firefox_profile
-*.7z
-*.exe
 
