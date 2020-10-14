@@ -2,8 +2,7 @@
 #############################################################################################
 # アドオン（ Firefox sync で同期される）
 
-#タブのロック機能
-https://addons.mozilla.org/ja/firefox/addon/tabloc/
+
 #Always Right　新規タブがアクティブタブのすぐ右側に開きます
 https://addons.mozilla.org/ja/firefox/addon/always-right/
 #tabを閉じた際、左のタブがフォーカスされるようになります
@@ -14,8 +13,12 @@ https://addons.mozilla.org/ja/firefox/addon/focus-on-left-tab-aft-closing/?src=a
 https://addons.mozilla.org/ja/firefox/addon/undoclosetabbutton/
 #右側のタブをまとめて閉じるアドオン
 https://addons.mozilla.org/ja/firefox/addon/close-tabs-right/
+https://addons.mozilla.org/en-US/firefox/addon/close-tabs-right/
 #左側のタブをまとめて閉じるアドオン: Close Tabs to the Left、デフォルトでは右側のタブを閉じるメニューしかないので左側のタブも閉じるメニューを追加するアドオン
 https://addons.mozilla.org/ja/firefox/addon/close-tabs-left/
+https://addons.mozilla.org/ja/firefox/addon/close-tabs-to-the-left-i18n/
+
+https://addons.mozilla.org/ja/firefox/addon/close-other-tabs-menu/
 
 
 #############################################################################################
