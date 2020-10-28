@@ -20,6 +20,7 @@ https://addons.mozilla.org/ja/firefox/addon/close-tabs-to-the-left-i18n/
 
 https://addons.mozilla.org/ja/firefox/addon/close-other-tabs-menu/
 
+https://addons.mozilla.org/ja/firefox/addon/auto-reload-tab/
 
 #############################################################################################
 
