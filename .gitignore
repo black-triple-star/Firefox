@@ -3,7 +3,7 @@
 # firefox設定.txt 以外、除外
 *
 
-
+*.str-
 ~$*
 *.lnk
 *.pyc
