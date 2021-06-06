@@ -24,6 +24,8 @@ https://addons.mozilla.org/ja/firefox/addon/auto-reload-tab/
 
 #############################################################################################
 
+# %APPDATA%\Mozilla\Firefox\Profiles    の下のprefs.js か user.js を直接編集してもよさそう。
+
 about:config　で設定するのは、Firefox sync でも同期されない。
 
 about:config
@@ -43,6 +45,21 @@ browser.link.open_newwindow.restriction	0
 browser.fullscreen.autohide	false
 #bookmarkの履歴数
 browser.bookmarks.max_backups	0
+
+# https://toaru-weblog.com/pc/software/firefox-config-setting
+
+#ディスクキャッシュを切る	メモリキャシュに保存したほうが早いのでディスクキャッシュを切ります。下にメモリキャッシュの項目と一緒に確認しましょう。
+browser.cache.disk.enable	false
+
+# メモリキャッシュをオンにする	この項目は最初から有効になっているかもしれませんが、念のため確認します。
+browser.cache.memory.enable	true
+browser.cache.memory.capacity	233016
+
+#タブがアクティブにならない限り更新しないようにします。
+browser.cache.check_doc_frequency	0
+#タブ移動時のアニメーションなど、不要な処理を無効化します。
+browser.tabs.animate	false
+browser.panorama.animate_zoom	false
 
 # # http://web-d.navigater.info/cat2/firefox.html
 # network.http.pipelining					true
