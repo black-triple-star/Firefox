@@ -2,6 +2,10 @@
 #############################################################################################
 # アドオン（ Firefox sync で同期される）
 
+# copy links  選択した箇所のリンクをコピーする
+https://addons.mozilla.org/ja/firefox/addon/copy-links-cm/
+# fast copy マウスカーソルの真下にあるリンクをコピーする
+https://addons.mozilla.org/ja/firefox/addon/fast-copy-links/
 
 #Always Right　新規タブがアクティブタブのすぐ右側に開きます
 https://addons.mozilla.org/ja/firefox/addon/always-right/
