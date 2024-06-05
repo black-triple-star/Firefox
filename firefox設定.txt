@@ -1,27 +1,42 @@
 
 #############################################################################################
-# ѓAѓhѓIѓ“Ѓi Firefox sync ‚Е“ЇЉъ‚і‚к‚йЃj
+# г‚ўгѓ‰г‚Єгѓіпј€ Firefox sync гЃ§еђЊжњџгЃ•г‚Њг‚‹пј‰
 
-# CopyTables ѓeЃ[ѓuѓ‹‚МѓRѓsЃ[
+# CopyTables гѓ†гѓјгѓ–гѓ«гЃ®г‚ігѓ”гѓј
 https://addons.mozilla.org/ja/firefox/addon/copywebtables/
+пј€гЃЄгЃЉгЂЃctrl г‚­гѓј or alt г‚­гѓјг‚’жЉјгЃ—гЃЄгЃЊг‚‰гѓ‰гѓ©гѓѓг‚°гЃ™г‚‹гЃЁгѓ†гѓјгѓ–гѓ«г‚’йЃёжЉћпј†г‚ігѓ”гѓјгЃ§гЃЌг‚‹гЂ‚ctrlг‚­гѓјгЃ§гЃ®гѓ†гѓјгѓ–гѓ«йЃёжЉћгЃЇFirefoxгЃЊе…ѓгЃ‹г‚‰жЊЃгЃ¤ж©џиѓЅг‚‰гЃ—гЃ„пј‰
 
-# copy links  ‘I‘р‚µ‚Ѕ‰УЏЉ‚МѓЉѓ“ѓN‚рѓRѓsЃ[‚·‚й
+
+https://yama-mac.com/copytables_chrome/
+г‚ігѓ”гѓјеЅўејЏ	е†…е®№	гЃЉгЃ™гЃ™г‚ЃгЃ®дЅїгЃ„ж–№
+As is	и¦‹гЃџз›®йЂљг‚ЉгЃ®иЎЁз¤єеЅўејЏ	г‚Ёг‚Їг‚»гѓ«гЃЄгЃ©гЃ®иЎЁиЁ€з®—
+Plain Table	иЈ…йЈѕгЃЄгЃ—гЃ§и¦‹гЃџз›®йЂљг‚ЉгЃ®иЎЁз¤єеЅўејЏ	г‚Ёг‚Їг‚»гѓ«гЃЄгЃ©гЃ®иЎЁиЁ€з®—
+Text	г‚їгѓ–еЊєе€‡г‚ЉеЅўејЏ	гѓ†г‚­г‚№гѓ€г‚Ёгѓ‡г‚Јг‚ї
+Text + Swap	иЎЊгЃЁе€—г‚’е…Ґг‚Њж›їгЃ€гЃџг‚їгѓ–еЊєе€‡г‚ЉеЅўејЏ	гѓ†г‚­г‚№гѓ€г‚Ёгѓ‡г‚Јг‚ї
+CSV	г‚«гѓігѓћеЊєе€‡г‚ЉеЅўејЏ	гѓ†г‚­г‚№гѓ€г‚Ёгѓ‡г‚Јг‚ї
+CSV + Swap	иЎЊгЃЁе€—г‚’е…Ґг‚Њж›їгЃ€гЃџг‚«гѓігѓћеЊєе€‡г‚ЉеЅўејЏ	гѓ†г‚­г‚№гѓ€г‚Ёгѓ‡г‚Јг‚ї
+HTML + CSS	иЈ…йЈѕд»гЃЌгЃ®html	гѓ†г‚­г‚№гѓ€г‚Ёгѓ‡г‚Јг‚ї/HTMLг‚Ёгѓ‡г‚Јг‚ї
+HTML	html	гѓ†г‚­г‚№гѓ€г‚Ёгѓ‡г‚Јг‚ї/HTMLг‚Ёгѓ‡г‚Јг‚ї
+Texttile	г‚»гѓ«еЊєе€‡г‚Љг‚’гЂЊ|гЂЌгЃ§иЎЁз¤є	гѓЎгѓјгѓ«жњ¬ж–‡гЃ«еј•з”Ё
+
+
+# copy links  йЃёжЉћгЃ—гЃџз®‡ж‰ЂгЃ®гѓЄгѓіг‚Їг‚’г‚ігѓ”гѓјгЃ™г‚‹
 https://addons.mozilla.org/ja/firefox/addon/copy-links-cm/
-# fast copy ѓ}ѓEѓXѓJЃ[ѓ\ѓ‹‚Мђ^‰є‚Й‚ ‚йѓЉѓ“ѓN‚рѓRѓsЃ[‚·‚й
+# fast copy гѓћг‚¦г‚№г‚«гѓјг‚Ѕгѓ«гЃ®зњџдё‹гЃ«гЃ‚г‚‹гѓЄгѓіг‚Їг‚’г‚ігѓ”гѓјгЃ™г‚‹
 https://addons.mozilla.org/ja/firefox/addon/fast-copy-links/
 
-#Always RightЃ@ђV‹Kѓ^ѓu‚ЄѓAѓNѓeѓBѓuѓ^ѓu‚М‚·‚®‰E‘¤‚ЙЉJ‚«‚Ь‚·
+#Always RightгЂЂж–°и¦Џг‚їгѓ–гЃЊг‚ўг‚Їгѓ†г‚Јгѓ–г‚їгѓ–гЃ®гЃ™гЃђеЏіеЃґгЃ«й–‹гЃЌгЃѕгЃ™
 https://addons.mozilla.org/ja/firefox/addon/always-right/
-#tab‚р•В‚¶‚ЅЌЫЃAЌ¶‚Мѓ^ѓu‚ЄѓtѓHЃ[ѓJѓX‚і‚к‚й‚ж‚¤‚Й‚И‚и‚Ь‚·
+#tabг‚’й–‰гЃгЃџйљ›гЂЃе·¦гЃ®г‚їгѓ–гЃЊгѓ•г‚©гѓјг‚«г‚№гЃ•г‚Њг‚‹г‚€гЃ†гЃ«гЃЄг‚ЉгЃѕгЃ™
 https://addons.mozilla.org/ja/firefox/addon/focus-on-left-tab-aft-closing/?src=api
-#Њ»ЌЭ‚Мѓ^ѓu‚р•В‚¶‚ЅЊг‚ЙЃA‚З‚Мѓ^ѓu‚ЙѓtѓHЃ[ѓJѓX‚·‚й‚©‚рђЭ’и‚Е‚«‚йЃBЃiЏг‚МЃuFocus On Left Tab After ClosingЃv‚рЋg‚Б‚Д‚й‚М‚Е•s—vЃj
+#зЏѕењЁгЃ®г‚їгѓ–г‚’й–‰гЃгЃџеѕЊгЃ«гЂЃгЃ©гЃ®г‚їгѓ–гЃ«гѓ•г‚©гѓјг‚«г‚№гЃ™г‚‹гЃ‹г‚’иЁ­е®љгЃ§гЃЌг‚‹гЂ‚пј€дёЉгЃ®гЂЊFocus On Left Tab After ClosingгЂЌг‚’дЅїгЃЈгЃ¦г‚‹гЃ®гЃ§дёЌи¦Ѓпј‰
 #https://addons.mozilla.org/ja/firefox/addon/select-after-closing-current/?src=api
-#‚ў‚н‚д‚йЃuЌЕ‹Я•В‚¶‚Ѕѓ^ѓuЃv
+#гЃ„г‚Џг‚†г‚‹гЂЊжњЂиї‘й–‰гЃгЃџг‚їгѓ–гЂЌ
 https://addons.mozilla.org/ja/firefox/addon/undoclosetabbutton/
-#‰E‘¤‚Мѓ^ѓu‚р‚Ь‚Ж‚Я‚Д•В‚¶‚йѓAѓhѓIѓ“
+#еЏіеЃґгЃ®г‚їгѓ–г‚’гЃѕгЃЁг‚ЃгЃ¦й–‰гЃг‚‹г‚ўгѓ‰г‚Єгѓі
 https://addons.mozilla.org/ja/firefox/addon/close-tabs-right/
 https://addons.mozilla.org/en-US/firefox/addon/close-tabs-right/
-#Ќ¶‘¤‚Мѓ^ѓu‚р‚Ь‚Ж‚Я‚Д•В‚¶‚йѓAѓhѓIѓ“: Close Tabs to the LeftЃAѓfѓtѓHѓ‹ѓg‚Е‚Н‰E‘¤‚Мѓ^ѓu‚р•В‚¶‚йѓЃѓjѓ…Ѓ[‚µ‚©‚И‚ў‚М‚ЕЌ¶‘¤‚Мѓ^ѓu‚а•В‚¶‚йѓЃѓjѓ…Ѓ[‚р’З‰Б‚·‚йѓAѓhѓIѓ“
+#е·¦еЃґгЃ®г‚їгѓ–г‚’гЃѕгЃЁг‚ЃгЃ¦й–‰гЃг‚‹г‚ўгѓ‰г‚Єгѓі: Close Tabs to the LeftгЂЃгѓ‡гѓ•г‚©гѓ«гѓ€гЃ§гЃЇеЏіеЃґгЃ®г‚їгѓ–г‚’й–‰гЃг‚‹гѓЎгѓ‹гѓҐгѓјгЃ—гЃ‹гЃЄгЃ„гЃ®гЃ§е·¦еЃґгЃ®г‚їгѓ–г‚‚й–‰гЃг‚‹гѓЎгѓ‹гѓҐгѓјг‚’иїЅеЉ гЃ™г‚‹г‚ўгѓ‰г‚Єгѓі
 https://addons.mozilla.org/ja/firefox/addon/close-tabs-left/
 https://addons.mozilla.org/ja/firefox/addon/close-tabs-to-the-left-i18n/
 
@@ -29,42 +44,47 @@ https://addons.mozilla.org/ja/firefox/addon/close-other-tabs-menu/
 
 https://addons.mozilla.org/ja/firefox/addon/auto-reload-tab/
 
+
+uAutoPagerize
+https://addons.mozilla.org/ja/firefox/addon/uautopagerize/
+
+
 #############################################################################################
 
-# %APPDATA%\Mozilla\Firefox\Profiles    ‚М‰є‚Мprefs.js ‚© user.js ‚р’јђЪ•ТЏW‚µ‚Д‚а‚ж‚і‚»‚¤ЃB
+# %APPDATA%\Mozilla\Firefox\Profiles    гЃ®дё‹гЃ®prefs.js гЃ‹ user.js г‚’з›ґжЋҐз·Ёй›†гЃ—гЃ¦г‚‚г‚€гЃ•гЃќгЃ†гЂ‚
 
-about:configЃ@‚ЕђЭ’и‚·‚й‚М‚НЃAFirefox sync ‚Е‚а“ЇЉъ‚і‚к‚И‚ўЃB
+about:configгЂЂгЃ§иЁ­е®љгЃ™г‚‹гЃ®гЃЇгЂЃFirefox sync гЃ§г‚‚еђЊжњџгЃ•г‚ЊгЃЄгЃ„гЂ‚
 
 about:config
 browser.tabs.loadBookmarksInTabs			true
 browser.search.openintab			true
 browser.bookmarks.openInTabClosesMenu			false
 browser.tabs.insertRelatedAfterCurrent			true
-#ЌЕЊг‚Мѓ^ѓu‚рЏБ‚µ‚Д‚а‹у”’‚Мѓ^ѓu‚ЄЋc‚йЃBhttps://rcmdnk.com/blog/2014/11/11/computer-firefox/	https://rcmdnk.com/blog/2014/11/16/computer-firefox/
+#жњЂеѕЊгЃ®г‚їгѓ–г‚’ж¶€гЃ—гЃ¦г‚‚з©єз™ЅгЃ®г‚їгѓ–гЃЊж®‹г‚‹гЂ‚https://rcmdnk.com/blog/2014/11/11/computer-firefox/	https://rcmdnk.com/blog/2014/11/16/computer-firefox/
 browser.tabs.closeWindowWithLastTab	false
 #http://objprg.blog122.fc2.com/blog-entry-206.html
 browser.tabs.loadDivertedInBackground	true
-#ѓ|ѓbѓvѓAѓbѓv‚рђV‚µ‚ўѓEѓBѓ“ѓhѓE‚Е‚Н‚И‚­ђV‚µ‚ўѓ^ѓu‚ЙЉJ‚­ http://bee-dash.com/blog-entry-15009.html
+#гѓќгѓѓгѓ—г‚ўгѓѓгѓ—г‚’ж–°гЃ—гЃ„г‚¦г‚Јгѓігѓ‰г‚¦гЃ§гЃЇгЃЄгЃЏж–°гЃ—гЃ„г‚їгѓ–гЃ«й–‹гЃЏ http://bee-dash.com/blog-entry-15009.html
 browser.link.open_newwindow	3
 browser.link.open_newwindow.restriction	0
 
-#ѓtѓ‹ѓXѓNѓЉЃ[ѓ“Ћћ‚МѓcЃ[ѓ‹ѓoЃ[‚рЏн‚Й•\Ћ¦‚·‚й
+#гѓ•гѓ«г‚№г‚ЇгѓЄгѓјгѓіж™‚гЃ®гѓ„гѓјгѓ«гѓђгѓјг‚’еёёгЃ«иЎЁз¤єгЃ™г‚‹
 browser.fullscreen.autohide	false
-#bookmark‚М—љ—рђ”
+#bookmarkгЃ®е±Ґж­ґж•°
 browser.bookmarks.max_backups	0
 
 # https://toaru-weblog.com/pc/software/firefox-config-setting
 
-#ѓfѓBѓXѓNѓLѓѓѓbѓVѓ…‚рђШ‚й	ѓЃѓ‚ѓЉѓLѓѓѓVѓ…‚Й•Ы‘¶‚µ‚Ѕ‚Щ‚¤‚Є‘Ѓ‚ў‚М‚ЕѓfѓBѓXѓNѓLѓѓѓbѓVѓ…‚рђШ‚и‚Ь‚·ЃB‰є‚ЙѓЃѓ‚ѓЉѓLѓѓѓbѓVѓ…‚МЌЂ–Ъ‚Ж€кЏЏ‚ЙЉm”F‚µ‚Ь‚µ‚е‚¤ЃB
+#гѓ‡г‚Јг‚№г‚Їг‚­гѓЈгѓѓг‚·гѓҐг‚’е€‡г‚‹	гѓЎгѓўгѓЄг‚­гѓЈг‚·гѓҐгЃ«дїќе­гЃ—гЃџгЃ»гЃ†гЃЊж—©гЃ„гЃ®гЃ§гѓ‡г‚Јг‚№г‚Їг‚­гѓЈгѓѓг‚·гѓҐг‚’е€‡г‚ЉгЃѕгЃ™гЂ‚дё‹гЃ«гѓЎгѓўгѓЄг‚­гѓЈгѓѓг‚·гѓҐгЃ®й …з›®гЃЁдёЂз·’гЃ«зўєиЄЌгЃ—гЃѕгЃ—г‚‡гЃ†гЂ‚
 browser.cache.disk.enable	false
 
-# ѓЃѓ‚ѓЉѓLѓѓѓbѓVѓ…‚рѓIѓ“‚Й‚·‚й	‚±‚МЌЂ–Ъ‚НЌЕЏ‰‚©‚з—LЊш‚Й‚И‚Б‚Д‚ў‚й‚©‚а‚µ‚к‚Ь‚№‚с‚ЄЃA”O‚М‚Ѕ‚ЯЉm”F‚µ‚Ь‚·ЃB
+# гѓЎгѓўгѓЄг‚­гѓЈгѓѓг‚·гѓҐг‚’г‚ЄгѓігЃ«гЃ™г‚‹	гЃ“гЃ®й …з›®гЃЇжњЂе€ќгЃ‹г‚‰жњ‰еЉ№гЃ«гЃЄгЃЈгЃ¦гЃ„г‚‹гЃ‹г‚‚гЃ—г‚ЊгЃѕгЃ›г‚“гЃЊгЂЃеїµгЃ®гЃџг‚ЃзўєиЄЌгЃ—гЃѕгЃ™гЂ‚
 browser.cache.memory.enable	true
 browser.cache.memory.capacity	233016
 
-#ѓ^ѓu‚ЄѓAѓNѓeѓBѓu‚Й‚И‚з‚И‚ўЊА‚иЌXђV‚µ‚И‚ў‚ж‚¤‚Й‚µ‚Ь‚·ЃB
+#г‚їгѓ–гЃЊг‚ўг‚Їгѓ†г‚Јгѓ–гЃ«гЃЄг‚‰гЃЄгЃ„й™ђг‚Љж›ґж–°гЃ—гЃЄгЃ„г‚€гЃ†гЃ«гЃ—гЃѕгЃ™гЂ‚
 browser.cache.check_doc_frequency	0
-#ѓ^ѓu€Ъ“®Ћћ‚МѓAѓjѓЃЃ[ѓVѓ‡ѓ“‚И‚ЗЃA•s—v‚ИЏ€—ќ‚р–іЊш‰»‚µ‚Ь‚·ЃB
+#г‚їгѓ–з§»е‹•ж™‚гЃ®г‚ўгѓ‹гѓЎгѓјг‚·гѓ§гѓігЃЄгЃ©гЂЃдёЌи¦ЃгЃЄе‡¦зђ†г‚’з„ЎеЉ№еЊ–гЃ—гЃѕгЃ™гЂ‚
 browser.tabs.animate	false
 browser.panorama.animate_zoom	false
 
@@ -73,68 +93,68 @@ browser.panorama.animate_zoom	false
 # network.http.proxy.pipelining			true
 # network.http.pipelining.maxrequests		8
 # browser.cache.memory.enable				true
-# Ѓ@ЃЁ‰EѓNѓЉѓbѓNЃЁЃuђV‹KЌмђ¬ЃvЃЁЃuђ®ђ”’lЃv
+# гЂЂв†’еЏіг‚ЇгѓЄгѓѓг‚Їв†’гЂЊж–°и¦ЏдЅњж€ђгЂЌв†’гЂЊж•ґж•°еЂ¤гЂЌ
 # browser.cache.memory.capacity
-# Ѓ¦“‹ЌЪѓЃѓ‚ѓЉ‚Є1GB‚МЏкЌ‡ЃF16384
-# Ѓ¦“‹ЌЪѓЃѓ‚ѓЉ‚Є2GB‚МЏкЌ‡ЃF32768
-# Ѓ¦“‹ЌЪѓЃѓ‚ѓЉ‚Є3GB‚МЏкЌ‡ЃF49152
-# Ѓ¦“‹ЌЪѓЃѓ‚ѓЉ‚Є4GB‚МЏкЌ‡ЃF65536
+# вЂ»жђ­иј‰гѓЎгѓўгѓЄгЃЊ1GBгЃ®е ґеђ€пјљ16384
+# вЂ»жђ­иј‰гѓЎгѓўгѓЄгЃЊ2GBгЃ®е ґеђ€пјљ32768
+# вЂ»жђ­иј‰гѓЎгѓўгѓЄгЃЊ3GBгЃ®е ґеђ€пјљ49152
+# вЂ»жђ­иј‰гѓЎгѓўгѓЄгЃЊ4GBгЃ®е ґеђ€пјљ65536
 
 #############################################################################################
 
 https://ameblo.jp/foreheadlarge-s/entry-11974850796.html
 
 browser.tabs.showSingleWindowModePrefs
-‚рђ^‹U’l‚ЕЌмђ¬‚µЃAђ^‚Й‚·‚й
+г‚’зњџеЃЅеЂ¤гЃ§дЅњж€ђгЃ—гЂЃзњџгЃ«гЃ™г‚‹
 
-ЊxЌђ‚р•В‚¶‚Ь‚·ЃB
-browser.link.open_newwindow.restriction‚р0‚Й•ПЌX‚µ‚Ь‚·Ѓibrowser.link.open_newwindow‚ЄѓfѓtѓHѓ‹ѓg‚М3‚ЙђЭ’и‚і‚к‚Д‚ў‚й‚±‚Ж‚рЉm”F‚µ‚Ь‚·Ѓj
+и­¦е‘Љг‚’й–‰гЃгЃѕгЃ™гЂ‚
+browser.link.open_newwindow.restrictionг‚’0гЃ«е¤‰ж›ґгЃ—гЃѕгЃ™пј€browser.link.open_newwindowгЃЊгѓ‡гѓ•г‚©гѓ«гѓ€гЃ®3гЃ«иЁ­е®љгЃ•г‚ЊгЃ¦гЃ„г‚‹гЃ“гЃЁг‚’зўєиЄЌгЃ—гЃѕгЃ™пј‰
 
-browser.search.openintabЃЁtrue
-ѓTЃ[ѓ`ѓoЃ[‚ЕЊџЌх‚µ‚ЅЏкЌ‡ЃAЊџЌхЊ‹‰К‚рђV‚µ‚ўѓ^ѓu‚Е•\Ћ¦‚·‚йЃB
+browser.search.openintabв†’true
+г‚µгѓјгѓЃгѓђгѓјгЃ§ж¤њзґўгЃ—гЃџе ґеђ€гЂЃж¤њзґўзµђжћњг‚’ж–°гЃ—гЃ„г‚їгѓ–гЃ§иЎЁз¤єгЃ™г‚‹гЂ‚
 
-browser.backspace_actionЃЁ2
-Џ‰Љъ’l‚Е‚Нbackspace‚Є"–Я‚й"‚ЙЉ„‚иђU‚з‚к‚Д‚ў‚й‚М‚р–іЊш‰»‚µЃA‰џ‚µ‚Д‚а‘O‚МѓyЃ[ѓW‚Й–Я‚з‚И‚ў‚ж‚¤‚Й‚·‚йЃB
+browser.backspace_actionв†’2
+е€ќжњџеЂ¤гЃ§гЃЇbackspaceгЃЊ"ж€»г‚‹"гЃ«е‰Іг‚ЉжЊЇг‚‰г‚ЊгЃ¦гЃ„г‚‹гЃ®г‚’з„ЎеЉ№еЊ–гЃ—гЂЃжЉјгЃ—гЃ¦г‚‚е‰ЌгЃ®гѓљгѓјг‚ёгЃ«ж€»г‚‰гЃЄгЃ„г‚€гЃ†гЃ«гЃ™г‚‹гЂ‚
 
-security.dialog_enable_delayЃЁ0
-ѓAѓhѓIѓ“‚МѓCѓ“ѓXѓgЃ[ѓ‹‚М‘Т‚їЋћЉФ‚р0‚Й‚·‚йЃB
+security.dialog_enable_delayв†’0
+г‚ўгѓ‰г‚ЄгѓігЃ®г‚¤гѓіг‚№гѓ€гѓјгѓ«гЃ®еѕ…гЃЎж™‚й–“г‚’0гЃ«гЃ™г‚‹гЂ‚
 
-browser.tabs.closeWindowWithLastTabЃЁfalse
-ѓEѓBѓ“ѓhѓE‚МЌЕЊг‚Мѓ^ѓu‚р•В‚¶‚Д‚аЃAѓEѓBѓ“ѓhѓE‚р•В‚¶‚И‚ў‚ж‚¤‚Й‚·‚йЃB
+browser.tabs.closeWindowWithLastTabв†’false
+г‚¦г‚Јгѓігѓ‰г‚¦гЃ®жњЂеѕЊгЃ®г‚їгѓ–г‚’й–‰гЃгЃ¦г‚‚гЂЃг‚¦г‚Јгѓігѓ‰г‚¦г‚’й–‰гЃгЃЄгЃ„г‚€гЃ†гЃ«гЃ™г‚‹гЂ‚
 
-browser.pagethumbnails.capturing_disabledЃЁtrue
-–K–в‚µ‚ЅѓTѓCѓg‚рђГЋ~‰жѓLѓѓѓvѓ`ѓѓЃ[‚Е•Ы‘¶‚µЃAѓTѓЂѓlѓCѓ‹‰ж‘њ‚Ж‚µ‚Д•\Ћ¦‚·‚й‹@”\‚р’вЋ~‚і‚№‚йЃB
+browser.pagethumbnails.capturing_disabledв†’true
+иЁЄе•ЏгЃ—гЃџг‚µг‚¤гѓ€г‚’йќ™ж­ўз”»г‚­гѓЈгѓ—гѓЃгѓЈгѓјгЃ§дїќе­гЃ—гЂЃг‚µгѓ гѓЌг‚¤гѓ«з”»еѓЏгЃЁгЃ—гЃ¦иЎЁз¤єгЃ™г‚‹ж©џиѓЅг‚’еЃњж­ўгЃ•гЃ›г‚‹гЂ‚
 
-browser.tabs.animateЃЁfalse
-ѓ^ѓuѓAѓjѓЃЃ[ѓVѓ‡ѓ“‚р–іЊш‰»‚·‚йЃB•‰‰Ч‚Є‘ЅЏ­Њё‚й‚©‚аЃB
+browser.tabs.animateв†’false
+г‚їгѓ–г‚ўгѓ‹гѓЎгѓјг‚·гѓ§гѓіг‚’з„ЎеЉ№еЊ–гЃ™г‚‹гЂ‚иІ иЌ·гЃЊе¤ље°‘жё›г‚‹гЃ‹г‚‚гЂ‚
 
-ѓVѓ“ѓOѓ‹ѓEѓBѓ“ѓhѓEѓ‚Ѓ[ѓhЉЦЊW‚М‚а‚М
-browser.link.open_newwindowЃЁ3
-ђV‹KѓEѓBѓ“ѓhѓE‚ЕЉJ‚­‚ж‚¤‚Й‚і‚к‚ЅѓЉѓ“ѓN‚рђV‚µ‚ўѓ^ѓu‚ЕЉJ‚­ЃB
+г‚·гѓіг‚°гѓ«г‚¦г‚Јгѓігѓ‰г‚¦гѓўгѓјгѓ‰й–ўдї‚гЃ®г‚‚гЃ®
+browser.link.open_newwindowв†’3
+ж–°и¦Џг‚¦г‚Јгѓігѓ‰г‚¦гЃ§й–‹гЃЏг‚€гЃ†гЃ«гЃ•г‚ЊгЃџгѓЄгѓіг‚Їг‚’ж–°гЃ—гЃ„г‚їгѓ–гЃ§й–‹гЃЏгЂ‚
 
-browser.link.open_newwindow.restrictionЃЁ0
-JavaScript‚Й‚ж‚Б‚ДђV‹KѓEѓBѓ“ѓhѓE‚ЕЉJ‚­ѓЉѓ“ѓN‚рЃAbrowser.link.open_newwindow‚Ж“Ї‚¶‚ж‚¤(ђV‚µ‚ўѓ^ѓu)‚ЙЉJ‚­ЃB
+browser.link.open_newwindow.restrictionв†’0
+JavaScriptгЃ«г‚€гЃЈгЃ¦ж–°и¦Џг‚¦г‚Јгѓігѓ‰г‚¦гЃ§й–‹гЃЏгѓЄгѓіг‚Їг‚’гЂЃbrowser.link.open_newwindowгЃЁеђЊгЃг‚€гЃ†(ж–°гЃ—гЃ„г‚їгѓ–)гЃ«й–‹гЃЏгЂ‚
 
-‚±‚М“с‚В‚МЌЂ–Ъ‚р‚±‚М‚ж‚¤‚ЙђЭ’и‚·‚й‚ЖЃAђV‹KѓEѓBѓ“ѓhѓE‚ЕЉJ‚­ѓЉѓ“ѓN‚рЏн‚ЙђV‚µ‚ўѓ^ѓu‚ЕЉJ‚­‚ж‚¤‚Й‚И‚й‚М‚ЕЃAѓVѓ“ѓOѓ‹ѓEѓBѓ“ѓhѓE‚Еѓuѓ‰ѓEѓWѓ“ѓOЏo—€‚й‚ж‚¤‚Й‚И‚и‚Ь‚·ЃB
+гЃ“гЃ®дєЊгЃ¤гЃ®й …з›®г‚’гЃ“гЃ®г‚€гЃ†гЃ«иЁ­е®љгЃ™г‚‹гЃЁгЂЃж–°и¦Џг‚¦г‚Јгѓігѓ‰г‚¦гЃ§й–‹гЃЏгѓЄгѓіг‚Їг‚’еёёгЃ«ж–°гЃ—гЃ„г‚їгѓ–гЃ§й–‹гЃЏг‚€гЃ†гЃ«гЃЄг‚‹гЃ®гЃ§гЂЃг‚·гѓіг‚°гѓ«г‚¦г‚Јгѓігѓ‰г‚¦гЃ§гѓ–гѓ©г‚¦г‚ёгѓіг‚°е‡єжќҐг‚‹г‚€гЃ†гЃ«гЃЄг‚ЉгЃѕгЃ™гЂ‚
 
-ѓ}ѓEѓXѓXѓNѓЌЃ[ѓ‹ЉЦЊW‚М‚а‚М
-mousewheel.acceleration.startЃЁ3
-ѓ}ѓEѓXѓzѓCЃ[ѓ‹‚М‰Б‘¬‹@”\‚р—LЊш‚Й‚·‚йЃBђ”’l‚Н‰Б‘¬ЉJЋn‚Ц‚Ми‡’l“I‚И‚а‚МЃB
+гѓћг‚¦г‚№г‚№г‚Їгѓ­гѓјгѓ«й–ўдї‚гЃ®г‚‚гЃ®
+mousewheel.acceleration.startв†’3
+гѓћг‚¦г‚№гѓ›г‚¤гѓјгѓ«гЃ®еЉ йЂџж©џиѓЅг‚’жњ‰еЉ№гЃ«гЃ™г‚‹гЂ‚ж•°еЂ¤гЃЇеЉ йЂџй–‹е§‹гЃёгЃ®й–ѕеЂ¤зљ„гЃЄг‚‚гЃ®гЂ‚
 
-mousewheel.acceleration.factorЃЁ5
-ѓ}ѓEѓXѓzѓCЃ[ѓ‹‚М‰Б‘¬Џу‘Ф‚Ж‚И‚Б‚ЅЋћ‚МЃAѓXѓNѓЌЃ[ѓ‹—КЃB‘Ѕ‚­‚·‚й‚Ж‘Ѕ‚­ѓXѓNѓЌЃ[ѓ‹‚·‚йЃB
+mousewheel.acceleration.factorв†’5
+гѓћг‚¦г‚№гѓ›г‚¤гѓјгѓ«гЃ®еЉ йЂџзЉ¶ж…‹гЃЁгЃЄгЃЈгЃџж™‚гЃ®гЂЃг‚№г‚Їгѓ­гѓјгѓ«й‡ЏгЂ‚е¤љгЃЏгЃ™г‚‹гЃЁе¤љгЃЏг‚№г‚Їгѓ­гѓјгѓ«гЃ™г‚‹гЂ‚
 
-€к“x‚Мѓ}ѓEѓXѓzѓCЃ[ѓ‹‚Е‚аЃAѓzѓCЃ[ѓ‹‘¬“x‚Й‚ж‚Б‚ДѓXѓNѓЌЃ[ѓ‹—К‚Є‘е‚«‚­•П‚н‚й‚М‚Є•Ц—ЃB‚Ж‚Д‚аЏd•у‚µ‚Д‚ў‚Ь‚·
+дёЂеє¦гЃ®гѓћг‚¦г‚№гѓ›г‚¤гѓјгѓ«гЃ§г‚‚гЂЃгѓ›г‚¤гѓјгѓ«йЂџеє¦гЃ«г‚€гЃЈгЃ¦г‚№г‚Їгѓ­гѓјгѓ«й‡ЏгЃЊе¤§гЃЌгЃЏе¤‰г‚Џг‚‹гЃ®гЃЊдѕїе€©гЂ‚гЃЁгЃ¦г‚‚й‡Ќе®ќгЃ—гЃ¦гЃ„гЃѕгЃ™
 
 #############################################################################################
-‰EѓNѓЉѓbѓN‹ЦЋ~‚Ж‚©ѓRѓsѓy‹ЦЋ~‚р‰с”р
+еЏіг‚ЇгѓЄгѓѓг‚Їз¦Ѓж­ўгЃЁгЃ‹г‚ігѓ”гѓљз¦Ѓж­ўг‚’е›ћйЃї
 http://blog.gutyan.jp/entry/2013/08/10/Firefox23_JavaScript
 
 about:config
 
-€И‰є‚М“с‚В‚рfalse‚Й‚·‚йЃB
+д»Ґдё‹гЃ®дєЊгЃ¤г‚’falseгЃ«гЃ™г‚‹гЂ‚
 dom.event.clipboardevents.enabled
 
-# ‚±‚к‚рfalse ‚Й‚·‚й‚ЖЃAgoogleѓ}ѓbѓv‚Е‰EѓNѓЉѓbѓN‚µ‚ЅЌЫЃAfirefox‚М‰EѓNѓЉѓbѓN‚Жgoogleѓ}ѓbѓv‚М‰EѓNѓЉѓbѓN‚М—ј•ы‚ЄЏo‚Д‚µ‚Ь‚¤
+# гЃ“г‚Њг‚’false гЃ«гЃ™г‚‹гЃЁгЂЃgoogleгѓћгѓѓгѓ—гЃ§еЏіг‚ЇгѓЄгѓѓг‚ЇгЃ—гЃџйљ›гЂЃfirefoxгЃ®еЏіг‚ЇгѓЄгѓѓг‚ЇгЃЁgoogleгѓћгѓѓгѓ—гЃ®еЏіг‚ЇгѓЄгѓѓг‚ЇгЃ®дёЎж–№гЃЊе‡єгЃ¦гЃ—гЃѕгЃ†
 dom.event.contextmenu.enabled
 #############################################################################################
