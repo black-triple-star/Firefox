@@ -20,6 +20,9 @@ HTML	html	テキストエディタ/HTMLエディタ
 Texttile	セル区切りを「|」で表示	メール本文に引用
 
 
+# Add URL to Window Title (Advanced KeePass Usage)
+https://addons.mozilla.org/ja/firefox/addon/add-url-to-window-title/
+
 # copy links  選択した箇所のリンクをコピーする
 https://addons.mozilla.org/ja/firefox/addon/copy-links-cm/
 # fast copy マウスカーソルの真下にあるリンクをコピーする
