@@ -52,6 +52,11 @@ uAutoPagerize
 https://addons.mozilla.org/ja/firefox/addon/uautopagerize/
 
 
+Popup ALT Attributes
+https://gigazine.net/news/20240825-popup-alt-attributes-firefox/
+https://addons.mozilla.org/ja/firefox/addon/popup-alt-attribute/
+
+
 #############################################################################################
 
 # %APPDATA%\Mozilla\Firefox\Profiles    の下のprefs.js か user.js を直接編集してもよさそう。
